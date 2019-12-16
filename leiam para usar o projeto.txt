@@ -1,0 +1,3 @@
+criem um banco no phpmyadmin de vcs chamado: "classificados" e importem esse banco.sql para o banco "classificados" do phpmyadmin
+
+por fim abram no wampserver e testem por favor

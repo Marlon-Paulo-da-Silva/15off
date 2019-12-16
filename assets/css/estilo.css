@@ -1,0 +1,55 @@
+.foto_item{
+	width: 150px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	margin-left: 10px;
+}
+
+.foto_item img{
+	width: 150px;
+	height: 150px;
+}
+.foto_redimensionada{
+	background-position: center;
+	background-size: cover;
+}
+.headerbarra{
+	background-color: white;
+}
+
+.links-vendedor{
+	width: 100%;
+	height: 300px;
+	padding-top: 45px;
+}
+.link-site{
+	text-align: left;
+	color: #337ab7;
+	margin-left: 5%;
+	font-size: 18px;
+	line-height: 18px;
+
+}
+.link-facebook{
+	text-align: left;
+	color: #337ab7;
+	margin-left: 5%;
+	font-size: 18px;
+	line-height: 18px;
+	margin-top: 20px;
+
+}
+a{
+	color: #EE9A00;
+
+}
+i{
+	color: #337ab7;
+}
+h4 > i{
+	color: white;
+}
+.nome-user{
+	text-transform: uppercase;
+}
