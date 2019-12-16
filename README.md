@@ -24,8 +24,8 @@
 
 ![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela8.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela9.png)
-
 ![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela10.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela12.png)
+![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela9.PNG)
+
+![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela12.PNG)
