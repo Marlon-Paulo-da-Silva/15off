@@ -137,11 +137,11 @@ $total_anuncios_pendentes = $an->getTotalAnunciosPendentes(1);
 									<?php endif; ?>
 								</td>
 								<td>
-									<h3><a href="produto.php?id=<?php echo $anuncio['id']; ?>" style="color: inherit;"><?php echo $anuncio['titulo']; ?></a><br /></h3>
-									<?php echo $anuncio['categoria'] ?>
+									<h3><a href="produto.php?id=<?php echo $anuncio['id']; ?>" style="color: inherit;"><?php echo utf8_encode( $anuncio['titulo']); ?></a><br /></h3>
+									<?php echo utf8_encode( $anuncio['categoria'] )?>
 								</td>
 								<td>
-									<h4><br /><?php echo  $anuncio['nomeDoVendedor'] ?></h4>
+									<h4><br /><?php echo utf8_encode(  $anuncio['nomeDoVendedor']) ?></h4>
 									Vendedor
 								</td>
 								<td>
