@@ -12,22 +12,22 @@
 
 ### O site 15off será o canal que interligará o Usuário ao Cliente proporcionando facilidade de interação entre ambas as partes como ferramenta de negócios. O Usuário ao adentrar o ambiente do site encontrará destacado diversos produtos separados em categorias com descontos que variam de, no mínimo 15%, podendo escolher de um a vários produtos adicionando-os ao carrinho de compras.
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela1.png)
+![](files/images/tela1.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela2.png)
+![](files/images/tela2.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela3.png)
+![](files/images/tela3.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela5.png)
+![](files/images/tela5.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela6.png)
+![](files/images/tela6.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela7.png)
+![](files/images/tela7.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela8.png)
+![](files/images/tela8.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela10.png)
+![](files/images/tela10.png)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela9.PNG)
+![](files/images/tela9.PNG)
 
-![](https://github.com/Marlon-Paulo-da-Silva/15off/blob/master/files/images/tela12.PNG)
+![](files/images/tela12.PNG)
